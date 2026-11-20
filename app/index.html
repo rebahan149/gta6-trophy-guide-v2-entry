@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Leonida Trophy Ledger — GTA VI trophy guide &amp; tracker, every claim cited</title>
+<meta name="description" content="An offline guide and tracker for all 55 Grand Theft Auto VI PlayStation 5 trophies. Every guide is a list of cited steps: 300+ claims, each with its sources beside it, plus count trackers, a platinum roadmap and the missables flagged.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="eyebrow">Leonida · PlayStation 5 · Fully offline · Every claim cited</p>
+  <h1>The Leonida Trophy Ledger</h1>
+  <p class="standfirst">Every one of the 55 Grand Theft Auto VI trophies with its official name, description and grade — and a guide for each written as cited steps, so every fact sits beside the source it came from. A platinum roadmap, the missables flagged, count trackers for the big numbers, and a tracker that remembers where you stopped.</p>
+  <section class="stats-strip" aria-label="Citation counts, computed from this guide's data">
+    <div class="stat">
+      <span class="stat-number" id="stat-claims">–</span>
+      <span class="stat-label">claims cited</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number" id="stat-multi">–</span>
+      <span class="stat-label">backed by 2+ sources</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number" id="stat-sources">–</span>
+      <span class="stat-label">distinct sources</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number" id="stat-covered">–</span>
+      <span class="stat-label">trophies covered</span>
+    </div>
+    <p class="stats-note">Counted from the shipped data at load: one claim is one cited step, flag note or roadmap note.</p>
+  </section>
+  <section class="progress-panel" aria-label="Your progress">
+    <div class="progress-main">
+      <span id="progress-percent" class="progress-percent">0%</span>
+      <div class="progress-text">
+        <p id="progress-count" class="progress-count">0 of 55 trophies earned</p>
+        <p id="progress-points" class="progress-points">0 of 1,350 trophy points</p>
+        <p id="progress-counters" class="progress-counters">0 of 22 count trackers complete</p>
+      </div>
+    </div>
+    <div class="progress-bar" role="progressbar" aria-label="Trophies earned" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progress-bar"><span id="progress-fill"></span></div>
+    <ul class="grade-counts" id="grade-counts">
+      <li><span class="dot dot-platinum"></span>Platinum <strong id="count-platinum">0/1</strong></li>
+      <li><span class="dot dot-gold"></span>Gold <strong id="count-gold">0/2</strong></li>
+      <li><span class="dot dot-silver"></span>Silver <strong id="count-silver">0/6</strong></li>
+      <li><span class="dot dot-bronze"></span>Bronze <strong id="count-bronze">0/46</strong></li>
+    </ul>
+  </section>
+</header>
+
+<nav class="view-tabs" aria-label="Guide sections">
+  <button type="button" class="tab is-active" data-view="checklist">Checklist &amp; guides</button>
+  <button type="button" class="tab" data-view="detail">Trophy focus</button>
+  <button type="button" class="tab" data-view="roadmap">Platinum roadmap</button>
+  <button type="button" class="tab" data-view="missables">Missables <span class="tab-badge" id="missable-count">5</span></button>
+  <button type="button" class="tab" data-view="sources">Sources</button>
+</nav>
+
+<main>
+  <section id="view-checklist" class="view is-active">
+    <div class="toolbar">
+      <label class="search">Search <input id="search" type="search" placeholder="Trophy, mission, place…" autocomplete="off"></label>
+      <div class="chips" id="kind-chips" role="group" aria-label="Filter by kind">
+        <button type="button" class="chip is-active" data-kind="all">All 55</button>
+        <button type="button" class="chip" data-kind="story">Story</button>
+        <button type="button" class="chip" data-kind="missable">Missable</button>
+        <button type="button" class="chip" data-kind="collectibles">Collectibles</button>
+        <button type="button" class="chip" data-kind="activities">Activities</button>
+      </div>
+      <label class="grade-filter">Grade
+        <select id="grade-filter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="toggle"><input type="checkbox" id="spoiler-toggle" checked> Spoiler shield: hide story trophies until earned</label>
+      <label class="toggle"><input type="checkbox" id="hide-earned-toggle"> Hide earned</label>
+      <span class="toolbar-spacer"></span>
+      <button type="button" id="export-button">Export progress</button>
+      <label class="import-button">Import progress <input id="import-input" type="file" accept="application/json,.json"></label>
+    </div>
+    <p id="import-note" class="import-note" hidden></p>
+    <div class="layout">
+      <div class="list-wrap">
+        <p id="list-summary" class="list-summary"></p>
+        <ul id="trophy-list" class="trophy-list"></ul>
+      </div>
+      <aside id="detail" class="detail" aria-label="Trophy guide"></aside>
+    </div>
+  </section>
+
+  <section id="view-detail" class="view">
+    <div id="detail-full" class="detail detail-full"></div>
+  </section>
+
+  <section id="view-roadmap" class="view">
+    <div class="prose">
+      <h2>The road to the platinum</h2>
+      <p>Eight stages, in the order to play them, built from the official trophy descriptions: the chapter and named-mission trophies fix the story order, the stranger finales form their own block, and the counters and collectibles fill the stages after the finale. The official list holds no online trophies — every step below is single-player. Each stage carries its own cited notes, and trophies flagged <span class="flag flag-missable">Missable</span> are the ones whose descriptions tie them to a moment or a choice that may not come twice; everything else can be cleaned up in free roam.</p>
+    </div>
+    <div id="roadmap-stages"></div>
+  </section>
+
+  <section id="view-missables" class="view">
+    <div class="prose">
+      <h2>Missables: the five to plan around</h2>
+      <p>These flags are derived from the official descriptions — a trophy is flagged when its description ties it to a single story moment, a choice, or a scripted first attempt. Each card quotes the official description, states the basis for the flag as its own cited claim, and gives the trophy's cited steps, so you can see exactly when the moment comes and how to protect it. A manual save before story decisions is the cheapest insurance in the game.</p>
+    </div>
+    <div id="missable-cards" class="missable-cards"></div>
+  </section>
+
+  <section id="view-sources" class="view">
+    <div class="prose">
+      <h2>Sources &amp; method</h2>
+      <p>The trophy names, descriptions and grades in this guide are the official PlayStation 5 list for Grand Theft Auto VI, as published by PlayStation and mirrored by the two trophy databases below before this guide was written; both mirrors agree on every name, description and grade. Every claim in every guide names its sources beside it — the chips under each step are those sources — and the counts in the header are computed from the guide's own data file, not typed in. The roadmap order and the missable flags are this guide's own work, derived from the official descriptions; the reasoning is stated as a cited claim on each flagged trophy. Links open only when you follow them; the app itself fetches nothing and works with the network off.</p>
+    </div>
+    <ul id="source-list" class="source-list"></ul>
+  </section>
+</main>
+
+<footer class="colophon">
+  <p>The Leonida Trophy Ledger — an unofficial, fan-made guide. Trophy names and descriptions © Sony Interactive Entertainment / Rockstar Games, reproduced as published for reference. No Rockstar Games logo or artwork is used; the look of this page is its own.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
