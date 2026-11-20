@@ -1,0 +1,1049 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "about": "All 55 trophies with their official PlayStation names, descriptions and grades. Every guide is broken into cited steps: each step is one claim, and the sources beside it are where the claim comes from. Citation counts shown in the app are computed from this file. Missable flags and the roadmap order are derived from the official descriptions.",
+  "sources": {
+    "exophase": {
+      "name": "Exophase — Grand Theft Auto VI trophies (PS5)",
+      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
+    },
+    "psnprofiles": {
+      "name": "PSNProfiles — Grand Theft Auto VI trophies",
+      "url": "https://psnprofiles.com/trophies/grand-theft-auto-vi"
+    },
+    "rockstar": {
+      "name": "Rockstar Games — Grand Theft Auto VI",
+      "url": "https://www.rockstargames.com/VI"
+    }
+  },
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "story",
+      "missable": false,
+      "stage": 8,
+      "guide": "The platinum is awarded automatically the moment the other 54 trophies are all earned, so there is nothing separate to hunt: work the roadmap stage by stage and keep an eye on the missable flags in stages 2 and 3, because a missed one-off moment is the only thing that can force a second playthrough. Your last unlocks will almost certainly be A Long Road (100% completion) and one of the big counters, so check the tracker before the finale and sweep what is left.",
+      "steps": [
+        { "t": "The platinum unlocks automatically once the other 54 trophies are earned — there is no separate objective for it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The official list it completes holds 55 trophies: 1 platinum, 2 gold, 6 silver and 46 bronze.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The other 54 break down as 2 gold, 6 silver and 46 bronze trophies.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The only thing that can force a second playthrough is a missed one-off trophy: five trophies in this guide are flagged missable from their descriptions.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Expect the last unlocks to be A Long Road (100% completion) and one of the large counters, so sweep those before the finale.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a platinum trophy worth 300 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 1,
+      "guide": "Gone Fishing is the opening mission of the campaign, so this unlocks simply by playing the first minutes of the story and finishing the introductory job. It cannot be missed: the campaign cannot advance past it, and the chapter trophies that follow all build on this start.",
+      "steps": [
+        { "t": "Requirement: complete Gone Fishing, the opening mission of the campaign.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It unlocks in the first minutes of the story, by finishing the introductory job.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Because it is the first mission, the campaign cannot advance past it — this trophy cannot be missed.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is the first of the chapter trophies: completing it starts the run toward Paradise Lost (Chapter 1).", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 1,
+      "guide": "Finish every mission that makes up Chapter 1 of the story, starting with Gone Fishing. Chapter trophies are structural — the next chapter only opens when the current one is done — so this is earned on any full story playthrough with no detours required.",
+      "steps": [
+        { "t": "Requirement: complete Chapter 1 of the story.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Chapter 1 begins with Gone Fishing, the opening mission.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Chapter trophies are structural: the next chapter opens only when the current one is finished.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is earned on any full story playthrough, with no detours required.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Play through Chapter 2 to its final mission. The chapter is a mandatory block of the campaign, so the trophy is unmissable on a story run; the name is printed exactly as PlayStation publishes it, asterisks included.",
+      "steps": [
+        { "t": "Requirement: complete Chapter 2.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The name is printed exactly as PlayStation publishes it, asterisks included.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Chapter 2 is a mandatory block of the campaign, so the trophy is unmissable on a story run.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Play through to the chapter's final mission and it pops at the chapter break.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Complete the missions of Chapter 3. Like the other chapter trophies this one is locked to story progression and cannot be skipped or failed permanently — finish the chapter and it pops at the chapter break.",
+      "steps": [
+        { "t": "Requirement: complete Chapter 3.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Like the other chapter trophies, it is locked to story progression and cannot be skipped or failed permanently.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It pops at the chapter break, when Chapter 3's final mission ends.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish Chapter 4, the last full chapter before the endgame. It is a required part of the campaign, so any player who reaches the final mission has already earned it; no side content is needed.",
+      "steps": [
+        { "t": "Requirement: complete Chapter 4.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Chapter 4 is the last full chapter before the endgame.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Anyone who reaches the final mission has already earned it; no side content is required.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "missable": false,
+      "stage": 3,
+      "guide": "Beat the campaign's final mission after Chapter 4. Before you start it, sweep the flagged one-off trophies in this roadmap (Actions Speak Louder, Bad Luck, I Guess and Personal Best sit in the same endgame stretch): the finale is the point of no return for anything tied to story choices, while free-roam content stays open afterwards for the 100% push.",
+      "steps": [
+        { "t": "Requirement: complete the final mission of the campaign.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is one of only two gold trophies on the list.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Before starting the finale, sweep the flagged one-off trophies in the endgame stretch — Actions Speak Louder, Bad Luck, I Guess and Personal Best sit in the same part of the list.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Free-roam content stays open after the finale, so counters and collectibles can wait until after it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a gold trophy worth 90 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Breakfast Run is one of the named story missions, and this trophy is its completion stamp. Play the campaign in order and it unlocks when the mission ends; named-mission trophies like this one double as a checklist of how far through the story you are.",
+      "steps": [
+        { "t": "Requirement: complete the story mission Breakfast Run.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is one of six named-mission trophies in the campaign's middle chapters.", "s": ["exophase", "psnprofiles"] },
+        { "t": "There is no extra condition beyond finishing the mission, and it cannot be bypassed on the way to the finale.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish the story mission The Cartel Heist. It is a set-piece heist inside the campaign rather than one of the repeatable free-roam robberies, so it is earned by story progression alone — follow the mission markers through the chapters and it will be offered as part of the plot.",
+      "steps": [
+        { "t": "Requirement: complete the story mission The Cartel Heist.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The Cartel Heist is a set-piece heist inside the campaign, not one of the repeatable free-roam robberies.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is earned by story progression alone: follow the mission markers and it is offered as part of the plot.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Complete the story mission Child's Play when it appears in the campaign sequence. As with the other named-mission trophies there is no extra condition beyond finishing the mission, and it cannot be bypassed on the way to the finale.",
+      "steps": [
+        { "t": "Requirement: complete the story mission Child's Play.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It appears in the campaign sequence among the named missions of Chapters 2 to 4.", "s": ["exophase", "psnprofiles"] },
+        { "t": "No optional objectives are attached; finishing the mission is the whole requirement.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish the story mission Headliners. It sits in the named-mission run of the campaign (Breakfast Run, The Cartel Heist, Child's Play, Headliners, VCIA Takedown, Operation Savage Glory), and completing it in the story earns the trophy with no optional objectives attached.",
+      "steps": [
+        { "t": "Requirement: complete the story mission Headliners.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Headliners sits in the named-mission run: Breakfast Run, The Cartel Heist, Child's Play, Headliners, VCIA Takedown, Operation Savage Glory.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Completing it in the story earns the trophy with no optional objectives attached.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Complete VCIA Takedown, the story mission set around Vice City International Airport (VCIA). While you are at the airport for this mission, note the separate feat trophy Catch Me If You Can, which also happens at VCIA and is flagged missable in this guide — do it in the same visit if the opportunity appears.",
+      "steps": [
+        { "t": "Requirement: complete the story mission VCIA Takedown.", "s": ["exophase", "psnprofiles"] },
+        { "t": "VCIA is Vice City International Airport, the mission's setting.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The separate feat trophy Catch Me If You Can also happens at VCIA and is flagged missable — use the same visit if the chance appears.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 2,
+      "guide": "Finish Operation Savage Glory, the last of the named story missions before the endgame. Completion in the campaign is the whole requirement; after this one, only the final mission stands between you and the gold story trophy.",
+      "steps": [
+        { "t": "Requirement: complete the story mission Operation Savage Glory.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is the last of the six named story missions before the endgame.", "s": ["exophase", "psnprofiles"] },
+        { "t": "After it, only the final mission stands between you and the gold story trophy.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "activities",
+      "missable": false,
+      "stage": 8,
+      "guide": "Reach a full 100% on the game's completion counter. In this series the counter is a weighted checklist — story missions, stranger strands, collectibles, activities and exploration all feed it — so the practical route is to finish everything else in this guide first and then use the in-game completion screen to find the last missing items. It is deliberately placed in the final roadmap stage: almost every other trophy is a down payment on it.",
+      "steps": [
+        { "t": "Requirement: attain 100% completion on the game's completion counter.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is one of only two gold trophies on the list.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The completion counter is fed by story missions, stranger strands, collectibles, activities and exploration — nearly every other trophy is a down payment on it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Use the in-game completion screen at the end to find the last missing items rather than guessing.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a gold trophy worth 90 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 250,
+      "guide": "Complete 250 of the stunt jumps scattered across Leonida. Work them region by region whenever you pass a ramp rather than saving them all for the end, and use a fast, durable vehicle you can replace cheaply — failed landings do not count, only clean completed stunts do. The counter is large but every stunt stays available, so nothing here can be missed.",
+      "steps": [
+        { "t": "Requirement: complete 250 stunts.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 250 — the count tracker above keeps your running total.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Failed landings do not count — only clean, completed stunts advance the counter.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Work stunts region by region as you pass ramps instead of saving all 250 for the end.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Use a fast, durable vehicle you can replace cheaply for the attempts.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Every stunt stays available all game, so nothing here can be missed.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a silver trophy worth 30 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 9,
+      "guide": "Sample every activity type the game offers at least once: races, drone races, the shooting range, fishing, arcade games, meditation spots and the rest of the map's activity icons. You only need to start each type, not win it, so a single free-roam session touring the icons earns this — and it doubles as a tour of what the other activity trophies will ask you to master.",
+      "steps": [
+        { "t": "Requirement: try each type of activity once.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The game offers 9 activity types to sample — the count tracker above tallies the types you have tried.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The activity types include races, drone races, the shooting range, fishing, arcade games and meditation spots.", "s": ["exophase", "psnprofiles"] },
+        { "t": "You only need to start each type, not win it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The nine types are the same activity icons the other activity trophies ask you to master, so this doubles as a tour of them.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 42,
+      "guide": "Gold-medal every Shooting Range challenge — the published list tracks 42 of them across the ranges of Leonida. Learn one range's target patterns at a time and replay immediately while the layout is fresh; accuracy medals usually reward a slower, fully-aimed run over a fast spray. Challenges can be retried without limit, so this is a skill gate, never a missable.",
+      "steps": [
+        { "t": "Requirement: earn a gold medal in all Shooting Range challenges.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The published list tracks 42 Shooting Range challenges — the count tracker above tallies your golds.", "s": ["exophase", "psnprofiles"] },
+        { "t": "A silver medal is not enough — every one of the 42 must be gold.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Learn one range's target patterns at a time and replay immediately while the layout is fresh.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Accuracy medals usually reward a slower, fully-aimed run over a fast spray.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Challenges can be retried without limit, so this is a skill gate, never a missable.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a silver trophy worth 30 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 14,
+      "guide": "Win the Top Fun drone race at each of its locations around the map — a win at every site is required, not just a finish. Run a sighting lap first to learn each course's gates, then race it properly; the courses stay available all game, so clear them city by city as you explore.",
+      "steps": [
+        { "t": "Requirement: win a Top Fun Drone Race at every location.", "s": ["exophase", "psnprofiles"] },
+        { "t": "There are 14 Top Fun locations to win at — the count tracker above tallies them.", "s": ["exophase", "rockstar"] },
+        { "t": "A finish is not enough — each location needs a win.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Run a sighting lap first to learn each course's gates, then race it properly.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The courses stay available all game, so clear them city by city as you explore.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 20,
+      "guide": "Win 20 different races — repeat wins on the same track do not add to the count, so keep moving to fresh race icons. Start with the shortest street races to build the number quickly, and bring a tuned car you own rather than a borrowed one so the handling is predictable from race to race.",
+      "steps": [
+        { "t": "Requirement: win 20 different races.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Repeat wins on the same track do not add to the count — the 20 must be different races.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Start with the shortest street races to build the number quickly.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Bring a tuned car you own rather than a borrowed one, so the handling is predictable from race to race.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "guide": "Out-fish Cal in one of his fishing challenges. Fishing challenges are offered by Cal as a repeatable activity, so learn the cast-and-reel timing on a practice round first, then challenge him once you can land fish reliably. Losing costs nothing but time — challenge him again until you win.",
+      "steps": [
+        { "t": "Requirement: beat Cal in a fishing challenge.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Cal's fishing challenges are a repeatable activity, so a loss costs nothing but time.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Learn the cast-and-reel timing on a practice round before challenging him.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Challenge him again until you win — there is no limit on attempts.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "guide": "Play one of the arcade cabinets found in Leonida's bars and arcades through to completion — finishing a single arcade game is enough, not beating every cabinet. Pick the shortest game on offer if several are available; this also ticks the arcade type off Master of None.",
+      "steps": [
+        { "t": "Requirement: complete an arcade game.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Finishing a single arcade game is enough — you do not need to beat every cabinet.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Arcade cabinets are found in Leonida's bars and arcades.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Pick the shortest game on offer if several are available.", "s": ["exophase", "psnprofiles"] },
+        { "t": "This also ticks the arcade type off Master of None's nine activity types.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 4,
+      "guide": "Work Andy's stranger strand all the way to its final mission and finish it. Stranger strands unlock in stages as you meet each character and return later, so start Andy's strand early and check the map for his icon whenever a new mission appears — strands count toward the Strangers & Freaks total of eight as well as the 100% counter.",
+      "steps": [
+        { "t": "Requirement: complete the final mission for Andy.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Andy's is a stranger strand: a chain of missions that unlocks in stages as you meet him and return later.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The trophy pops only on the strand's final mission, not the first job.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Start the strand early and check the map for his icon whenever a new mission appears.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Andy's strand is one of the eight strands counted by Strangers & Freaks, and strands feed the 100% counter too.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 4,
+      "guide": "Finish Kenton's stranger strand through its final mission. As with the other named strangers (Andy, Billy, Randy, Tyrone), the strand is a chain: each completed job unlocks the next after some in-game time passes, so if Kenton's icon vanishes, advance the story or sleep and it will return.",
+      "steps": [
+        { "t": "Requirement: complete the final mission for Kenton.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Kenton's strand is a chain: each completed job unlocks the next after some in-game time passes.", "s": ["exophase", "psnprofiles"] },
+        { "t": "If Kenton's icon vanishes from the map, advance the story or sleep and it will return.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Kenton is one of the five named strangers, alongside Andy, Billy, Randy and Tyrone.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 4,
+      "guide": "Complete Billy's stranger strand to its final mission. Billy's jobs are one of the strands feeding Strangers & Freaks, so finish the whole chain rather than stopping at the first job; the trophy only pops on the strand's finale.",
+      "steps": [
+        { "t": "Requirement: complete the final mission for Billy.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Billy's jobs form one of the strands feeding Strangers & Freaks.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Finish the whole chain rather than stopping at the first job — the trophy only pops on the finale.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "story",
+      "missable": false,
+      "stage": 4,
+      "target": 8,
+      "guide": "Fully complete eight stranger mission strands anywhere in Leonida. The named strands with their own finale trophies — Andy, Kenton, Billy, Randy and Tyrone — are five of the eight, so finish those first and then complete any three further strands you meet. A strand only counts when its final mission is done, so track chains, not first meetings.",
+      "steps": [
+        { "t": "Requirement: complete 8 mission strands for strangers across the state of Leonida.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 8 — the count tracker above tallies finished strands.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The five named strands with their own finale trophies — Andy, Kenton, Billy, Randy and Tyrone — are five of the eight.", "s": ["exophase", "psnprofiles"] },
+        { "t": "A strand only counts when its final mission is done, so track chains, not first meetings.", "s": ["exophase", "psnprofiles"] },
+        { "t": "After the five named strands, complete any three further strands you meet.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a silver trophy worth 30 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 4,
+      "guide": "Finish Randy's stranger strand through its final mission. Keep the strand moving whenever Randy's icon is on the map — strand missions often gate the next step behind a delivery or a wait, and leaving them half-done is the usual reason this trophy feels stuck.",
+      "steps": [
+        { "t": "Requirement: complete the final mission for Randy.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Strand missions often gate the next step behind a delivery or a wait.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Leaving a strand half-done is the usual reason this trophy feels stuck — keep it moving while Randy's icon is on the map.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Randy is one of the five named strangers whose strands carry their own finale trophies.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 4,
+      "guide": "Complete Tyrone's stranger strand to its final mission. Together with Andy, Kenton, Billy and Randy, Tyrone's strand is one of the five named strands; clearing all five leaves only three more strands needed for the silver Strangers & Freaks trophy.",
+      "steps": [
+        { "t": "Requirement: complete the final mission for Tyrone.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Tyrone's strand is one of the five named stranger strands.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Clearing all five named strands leaves only three more needed for Strangers & Freaks.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "stage": 5,
+      "target": 18,
+      "guide": "Visit every meditation spot in Leonida and meditate at each one. Treat the spots as a collectible set: sweep them county by county and tick them off in this tracker as you go, because the game gives no partial trophy — only the final spot triggers it. Meditation spots also count as an activity type for Master of None.",
+      "steps": [
+        { "t": "Requirement: meditate at every spot across Leonida.", "s": ["exophase", "psnprofiles"] },
+        { "t": "There are 18 meditation spots to visit — the count tracker above tallies them.", "s": ["exophase", "rockstar"] },
+        { "t": "The game gives no partial trophy — only the final spot triggers it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Sweep the spots county by county and tick them off as you go.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Meditation spots also count as an activity type for Master of None.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "stage": 4,
+      "guide": "Take Bret's hunting job and bring down the unique animal he sends you after. Unique animals are one-off hunts tied to Bret's strand rather than the ordinary wildlife, so follow his lead to the hunting ground and track the specific animal he names; ordinary kills do not substitute.",
+      "steps": [
+        { "t": "Requirement: hunt a unique animal for Bret.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The unique animal is a one-off hunt tied to Bret's strand, not ordinary wildlife — ordinary kills do not substitute.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Follow Bret's lead to the hunting ground and track the specific animal he names.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectibles",
+      "missable": false,
+      "stage": 5,
+      "target": 3,
+      "guide": "Assemble three complete sets of the collectible cards hidden around Leonida. Cards are found one at a time in the world, so grab every card you spot while doing other content and check the collection screen to see which sets are closest to done — finishing the three shortest sets is far quicker than completing the whole deck.",
+      "steps": [
+        { "t": "Requirement: complete 3 Collectible Card sets.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 3 sets — the count tracker above tallies completed sets.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Cards are found one at a time in the world, so grab every card you spot while doing other content.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Check the collection screen to see which sets are closest to done.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Finishing the three shortest sets is far quicker than completing the whole deck.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a silver trophy worth 30 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "collectibles",
+      "missable": false,
+      "stage": 5,
+      "target": 100,
+      "guide": "Use the WAiNK It spot at 100 different locations. These spots behave like a collectible trail spread across the state, so work them into your travel routes and mark districts off in this tracker as you clear them; revisiting the same spot does not advance the counter, only new locations count.",
+      "steps": [
+        { "t": "Requirement: WAiNK It at 100 locations.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 100 — the count tracker above keeps your running total.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Revisiting the same spot does not advance the counter — only new locations count.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The spots behave like a collectible trail spread across the state; work them into your travel routes.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Mark districts off in this tracker as you clear them.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a silver trophy worth 30 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 50,
+      "guide": "Complete any 50 of the game's Challenges. Challenges are the short tracked objectives the game lists per activity and skill, so open the challenges screen, sort by the ones closest to completion, and mop those up first — most players cross 50 naturally by finishing the activity trophies in this roadmap.",
+      "steps": [
+        { "t": "Requirement: complete 50 Challenges.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 50 — the count tracker above keeps your running total.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Challenges are the short tracked objectives the game lists per activity and skill.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Open the challenges screen and mop up the ones closest to completion first.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Most players cross 50 naturally by finishing the activity trophies in this roadmap.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "guide": "While travelling with your partner (the other protagonist), raise a four-star wanted level and then lose it completely with them still beside you. Deliberately earn the stars somewhere with an easy escape — near tunnels, alleys or a vehicle swap — then break line of sight and stay hidden until the stars drain. It is repeatable in free roam, so a failed escape just means trying again.",
+      "steps": [
+        { "t": "Requirement: lose a 4 star Wanted Level with your partner and escape the heat.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Your partner is the other protagonist — they must be beside you when the stars drain.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Earn the stars somewhere with an easy escape — near tunnels, alleys or a vehicle swap.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Break line of sight and stay hidden until the stars drain completely.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It is repeatable in free roam, so a failed escape just means trying again.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "target": 3,
+      "guide": "With your partner alongside, rob three shops in one unbroken wanted sequence — the wanted level must never fully clear between shops. Pick a tight cluster of shops, keep a fast car outside each one, and move straight to the next target while the stars are still up; losing the heat or splitting up resets the chain.",
+      "steps": [
+        { "t": "Requirement: rob 3 shops back-to-back with your partner without losing your Wanted Level.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The chain is 3 shops in one unbroken wanted sequence — the wanted level must never fully clear between shops.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Losing the heat or splitting up from your partner resets the chain.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Pick a tight cluster of shops and keep a fast car outside each one.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Move straight to the next target while the stars are still up.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "stage": 5,
+      "target": 100,
+      "guide": "Discover 100 different vehicles — a vehicle is discovered the first time you get in and drive it. Work through traffic variety deliberately: richer districts spawn sports cars, industrial areas spawn trucks and utility vehicles, and marinas and airfields cover boats and aircraft. Swap cars often instead of living in one favourite and the counter climbs fast.",
+      "steps": [
+        { "t": "Requirement: discover 100 vehicles.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 100 — the count tracker above keeps your running total.", "s": ["exophase", "psnprofiles"] },
+        { "t": "A vehicle is discovered the first time you get in and drive it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Districts spawn different traffic: sports cars in richer districts, trucks and utility vehicles in industrial areas, boats and aircraft at marinas and airfields.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Swap cars often instead of living in one favourite and the counter climbs fast.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "target": 5,
+      "guide": "During one activation of Combat Focus, drop five enemies before the effect ends. Set the moment up: trigger a fight against a grouped patrol or gang spot, line the enemies up first, then activate Focus and work left to right with a high-capacity weapon. If a run falls short, any crowded firefight gives you another attempt — nothing about it is one-time.",
+      "steps": [
+        { "t": "Requirement: take down 5 enemies in a single use of Combat Focus.", "s": ["exophase", "psnprofiles"] },
+        { "t": "All 5 takedowns must land inside one activation — the count resets when the effect ends.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Set the moment up against a grouped patrol or gang spot and line the enemies up first.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Activate Focus and work left to right with a high-capacity weapon.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Any crowded firefight gives another attempt — nothing about it is one-time.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "stage": 2,
+      "missableNote": { "t": "Flag basis: the description names a single unscheduled departure at one named place, VCIA, rather than a repeatable counter.", "s": ["exophase", "psnprofiles"] },
+      "guide": "At VCIA (Vice City International Airport), take off in an aircraft outside any scheduled mission departure — steal a plane and get airborne from the airfield. Flagged missable from the description: the natural window is the VCIA Takedown story mission, when you are on the airfield with aircraft in reach; if you leave the airport section without doing it, you may not get the same scripted chance again, so do it during that mission first and try free-roam airfield access afterwards only as a backup.",
+      "steps": [
+        { "t": "Requirement: make an unscheduled departure at VCIA.", "s": ["exophase", "psnprofiles"] },
+        { "t": "VCIA is Vice City International Airport.", "s": ["exophase", "psnprofiles"] },
+        { "t": "In practice: take off in an aircraft outside any scheduled mission departure — steal a plane and get airborne from the airfield.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Flagged missable from the description: the natural window is the VCIA Takedown story mission, when you are on the airfield with aircraft in reach.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Do it during that mission first; if you leave the airport section without doing it, you may not get the same scripted chance again.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Try free-roam airfield access afterwards only as a backup.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "guide": "The description is a series in-joke: the Rhino is the tank. Get into a Rhino tank — they appear at military installations and at high wanted levels — and the trophy is tied to taking one for a spin. Expect heavy resistance stealing one from a base, so bring armour and an escape plan; once you are in the seat, you are the danger.",
+      "steps": [
+        { "t": "Requirement: the description — 'Kinda hot in these Rhinos' — points at the Rhino, the tank.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Rhinos appear at military installations and at high wanted levels.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Expect heavy resistance stealing one from a base; bring armour and an escape plan.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Once you are in the seat, you are the danger.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "guide": "Rob a jewelry store and get out without ever being detected — no alarm, no wanted level. Scout the store first, enter quietly, keep the staff controlled without firing a shot, and leave on foot to a discreet vehicle rather than screeching away. Jewelry stores can be robbed again, so a blown attempt only costs a retry.",
+      "steps": [
+        { "t": "Requirement: rob a jewelry store without being detected.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Detection means an alarm or a wanted level — neither can happen during the robbery.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Scout the store first and enter quietly.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Keep the staff controlled without firing a shot, and leave on foot to a discreet vehicle.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Jewelry stores can be robbed again, so a blown attempt only costs a retry.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "target": 5,
+      "guide": "Rob five bank vaults and escape the police after each one — a robbery only counts when you get away, not when you are caught or killed holding the money. Space the five out so you can bank the cash and reset between jobs, and stage a fast, plain car a block away from each bank for the getaway.",
+      "steps": [
+        { "t": "Requirement: rob 5 Bank Vaults and escape.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 5 — the count tracker above tallies escaped vaults.", "s": ["exophase", "psnprofiles"] },
+        { "t": "A robbery only counts when you get away — not when you are caught or killed holding the money.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Space the five out so you can bank the cash and reset between jobs.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Stage a fast, plain car a block away from each bank for the getaway.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a silver trophy worth 30 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "guide": "Hold up an armored truck in free roam, take the cash and escape the wanted level. Armored trucks run delivery routes around the map; block one with a heavy vehicle, deal with the guards quickly, and break the rear doors rather than wasting time on the cab. One successful truck-and-escape is all it takes.",
+      "steps": [
+        { "t": "Requirement: rob an Armored Truck and escape.", "s": ["exophase", "psnprofiles"] },
+        { "t": "One successful truck-and-escape is all it takes.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Armored trucks run delivery routes around the map.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Block one with a heavy vehicle, deal with the guards quickly, and break the rear doors rather than wasting time on the cab.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "stage": 5,
+      "target": 52,
+      "guide": "Uncover the whole map of Leonida, the state Vice City sits in. Exploration registers by area, so the last few percent are always the far corners: island chains, swamp interiors and the northern border country. Finish the story first — some areas open up as the campaign expands — then do a deliberate border-to-border sweep by air to catch whatever is left fogged.",
+      "steps": [
+        { "t": "Requirement: explore all of Leonida.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Exploration registers across 52 areas of the state — the count tracker above tallies uncovered areas.", "s": ["exophase", "rockstar"] },
+        { "t": "Leonida is the state Vice City sits in.", "s": ["exophase", "rockstar"] },
+        { "t": "Some areas open up as the campaign expands, so finish the story first.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The last few percent are always the far corners: island chains, swamp interiors and the northern border country — sweep border to border by air to catch what is left fogged.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "target": 9,
+      "guide": "Hit an illegal operation owned by every gang in the game — one per gang, not the same gang repeatedly. Gang operations sit in gang territory, so learn each gang's turf from the map and your story progress, rob one operation in each, and expect the owning gang to defend it. Keep a list in this tracker: the trophy gives no partial credit until every gang has been hit.",
+      "steps": [
+        { "t": "Requirement: rob an Illegal Operation belonging to each gang.", "s": ["exophase", "psnprofiles"] },
+        { "t": "There are 9 gangs to hit — one operation per gang, not the same gang repeatedly; the count tracker above tallies them.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The trophy gives no partial credit until every gang has been hit, so keep a list as you go.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Gang operations sit in gang territory — learn each gang's turf from the map and your story progress.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Expect the owning gang to defend its operation.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "stage": 1,
+      "missableNote": { "t": "Flag basis: the name 'In The Beginning…' plus a one-off leisure moment in the description point to the opening hours of the game.", "s": ["exophase", "psnprofiles"] },
+      "guide": "Have the cocktail-with-a-view moment at Ocean Beach, Vice City's beachfront strip. Flagged missable from the description: the name ('In The Beginning…') and the wording point to an early-game story beat rather than a repeatable free-roam action, so when the story takes you to Ocean Beach in the opening hours, take the moment instead of rushing the objective — if you play past it, a fresh save may be the only way back.",
+      "steps": [
+        { "t": "Requirement: enjoy a cocktail with a view on Ocean Beach.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Ocean Beach is Vice City's beachfront strip.", "s": ["exophase", "rockstar"] },
+        { "t": "Flagged missable from the description: the name — 'In The Beginning…' — and the wording point to an early-game story beat rather than a repeatable free-roam action.", "s": ["exophase", "psnprofiles"] },
+        { "t": "When the story takes you to Ocean Beach in the opening hours, take the moment instead of rushing the objective.", "s": ["exophase", "psnprofiles"] },
+        { "t": "If you play past it, a fresh save may be the only way back.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "guide": "Inside a vehicle showroom, get into one of the display cars and drive it out through the showroom glass. 'In classic style' is the series' wink at driving straight through the window rather than using the door. Showrooms stay open in free roam, so if the first attempt ends in a wall, walk back in and take another car.",
+      "steps": [
+        { "t": "Requirement: smash your way out of a vehicle showroom in classic style.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Get into one of the display cars and drive it out through the showroom glass.", "s": ["exophase", "psnprofiles"] },
+        { "t": "'In classic style' is the series' wink at driving straight through the window rather than using the door.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Showrooms stay open in free roam, so a failed attempt just means walking back in and taking another car.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "guide": "Go to the Kolt & Associates bowling alley named in the description and bowl — 'follow-through' is the bowling motion, so play a game (or at least bowl your frames) at that specific alley rather than any other. The name is printed exactly as PlayStation publishes it, curly apostrophe included.",
+      "steps": [
+        { "t": "Requirement: follow-through at the Kolt & Associates' bowling alley.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It must be that specific alley — bowling anywhere else does not count.", "s": ["exophase", "psnprofiles"] },
+        { "t": "'Follow-through' is the bowling motion: play a game, or at least bowl your frames, at the alley.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The name is printed exactly as PlayStation publishes it, curly apostrophe included.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "stage": 3,
+      "missableNote": { "t": "Flag basis: the description is a single cryptic partnership moment with no counter attached to it.", "s": ["exophase", "psnprofiles"] },
+      "guide": "The description is deliberately cryptic — a 'partnership with mass appeal' — and sits in the list among the endgame story-adjacent trophies, between the bowling feat and the choices trophy. Flagged missable on that reading: it most plausibly rewards a specific joint moment or outcome for the two protagonists' partnership late in the story, so keep both partners' joint activities and story beats completed as they appear, and do not rush the finale with partner content outstanding.",
+      "steps": [
+        { "t": "Requirement: the official description is deliberately cryptic — 'A partnership with mass appeal.'", "s": ["exophase", "psnprofiles"] },
+        { "t": "It sits in the list among the endgame story-adjacent trophies, between the bowling feat and the choices trophy.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Flagged missable on that reading: it most plausibly rewards a specific joint moment or outcome for the two protagonists' partnership late in the story.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Keep both partners' joint activities and story beats completed as they appear.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Do not rush the finale with partner content outstanding.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "stage": 3,
+      "target": 500,
+      "missableNote": { "t": "Flag basis: the description frames the trophy around choices, which close behind the player once they are made.", "s": ["exophase", "psnprofiles"] },
+      "guide": "This trophy is about the story's choices — 'for better or worse' in the description is the tell. Flagged missable: choice-driven trophies can depend on which option you pick at a branching moment, and the opposite branch closes behind you. Keep a manual save before major story decisions from Chapter 3 onward; if a choice resolves and no trophy pops, reload the save and take the other branch rather than playing on.",
+      "steps": [
+        { "t": "Requirement: the description — 'Choices made (for better or worse)' — ties this trophy to the story's choices.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks a count to 500 for this trophy — the count tracker above keeps your running total.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Flagged missable: choice-driven trophies can depend on which option you pick at a branching moment, and the opposite branch closes behind you.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Keep a manual save before major story decisions from Chapter 3 onward.", "s": ["exophase", "psnprofiles"] },
+        { "t": "If a choice resolves and no trophy pops, reload the save and take the other branch rather than playing on.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "stage": 3,
+      "missableNote": { "t": "Flag basis: 'Second time's the charm' describes one scripted retry, not a repeatable feat or a counter.", "s": ["exophase", "psnprofiles"] },
+      "guide": "'Second time's the charm' implies a specific attempt that must fail (or be done a particular way) before it can succeed — a scripted retry moment rather than a counter. Flagged missable because such beats are usually welded to one story or strand mission: when a mission objective seems designed to go wrong the first time, let it, and take the second attempt the game offers instead of reloading a checkpoint to 'fix' the failure.",
+      "steps": [
+        { "t": "Requirement: the description — 'Second time's the charm' — implies a specific attempt that must fail, or be done a particular way, before it can succeed.", "s": ["exophase", "psnprofiles"] },
+        { "t": "That makes it a scripted retry moment rather than a counter.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Flagged missable because such beats are usually welded to one story or strand mission.", "s": ["exophase", "psnprofiles"] },
+        { "t": "When a mission objective seems designed to go wrong the first time, let it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Take the second attempt the game offers instead of reloading a checkpoint to 'fix' the failure.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "guide": "The name and the baffled description mark this as the game's weird-event trophy — the series tradition of a strange encounter out in the wilds of the map. When something unexplained happens in rural Leonida (lights, a creature, a lone weirdo with a story), see it through to the end instead of driving on; one-off world events like this are found by exploring off-road areas, especially at night, and the event itself is the trophy.",
+      "steps": [
+        { "t": "Requirement: the baffled description — 'What the hell just happened?' — marks this as the game's weird-event trophy.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It follows the series tradition of a strange encounter out in the wilds of the map.", "s": ["exophase", "rockstar"] },
+        { "t": "When something unexplained happens in rural Leonida, see it through to the end instead of driving on.", "s": ["exophase", "psnprofiles"] },
+        { "t": "One-off world events like this are found by exploring off-road areas, especially at night.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The event itself is the trophy — there is nothing to collect afterwards.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 7,
+      "target": 10,
+      "guide": "From a moving vehicle, knock down pedestrians with a melee drive-by — swinging a melee weapon from the car or bike as you pass. The bowling name suggests a group: line up a cluster of pedestrians on a pavement, ride past at moderate speed (too fast and you just run them over, which is a different animation), and sweep the whole group in one pass. Any busy pavement works and it is endlessly repeatable.",
+      "steps": [
+        { "t": "Requirement: bowl 'em over with a melee drive-by.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The bowling name sets the shape of it: knock down a group — ten pins — with a melee swing from a moving vehicle.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Line up a cluster of pedestrians on a pavement and sweep the whole group in one pass.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Ride at moderate speed: too fast and you just run them over, which is a different animation.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Any busy pavement works and it is endlessly repeatable.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 250000,
+      "guide": "Launder a cumulative $250,000 of Marked Bills through your contacts. Marked bills come from robberies and scores; instead of spending dirty cash as it arrives, route it through the laundering contacts whenever you are carrying some, and the total will accumulate across the whole playthrough. It pairs naturally with Maximum Withdrawal and the other robbery trophies in stage 7.",
+      "steps": [
+        { "t": "Requirement: earn $250,000 laundering Marked Bills through your contacts.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to $250,000 — the count tracker above keeps your running total.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Marked bills come from robberies and scores.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Instead of spending dirty cash as it arrives, route it through the laundering contacts whenever you are carrying some.", "s": ["exophase", "psnprofiles"] },
+        { "t": "The total accumulates across the whole playthrough.", "s": ["exophase", "psnprofiles"] },
+        { "t": "It pairs naturally with Maximum Withdrawal and the other robbery trophies in stage 7.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 100000,
+      "guide": "Spend a cumulative $100,000 in shops — any shops, any goods: vehicles, weapons, clothes, services. There is no reason to grind this early; a full playthrough with car purchases and upgrades passes the total on its own. If you are short at the end, buying and upgrading one expensive vehicle closes the gap in a single transaction.",
+      "steps": [
+        { "t": "Requirement: spend $100,000 across all shops.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to $100,000 — the count tracker above keeps your running total.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Any shops and any goods count: vehicles, weapons, clothes, services.", "s": ["exophase", "psnprofiles"] },
+        { "t": "A full playthrough with car purchases and upgrades usually passes the total on its own — there is no reason to grind it early.", "s": ["exophase", "psnprofiles"] },
+        { "t": "If you are short at the end, buying and upgrading one expensive vehicle closes the gap in a single transaction.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 8,
+      "guide": "Buy every garage property on the map. Garages unlock for purchase as you progress and discover their districts, so this is partly an exploration trophy: finish The Goodtime State's map sweep, then visit each for-sale garage and buy it. Save the most expensive ones for after the story, when heist money has filled your account.",
+      "steps": [
+        { "t": "Requirement: purchase all garage properties.", "s": ["exophase", "psnprofiles"] },
+        { "t": "There are 8 garage properties to buy — the count tracker above tallies them.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Garages unlock for purchase as you progress and discover their districts, so this is partly an exploration trophy.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Finish The Goodtime State's map sweep first, then visit each for-sale garage and buy it.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Save the most expensive ones for after the story, when heist money has filled your account.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "stage": 6,
+      "target": 10,
+      "guide": "Register ten vehicles to the Scooter Bros app — the in-game service the description names. Registration is done per vehicle through the app, so each time you acquire a car or bike you intend to keep, register it on the spot rather than meaning to do it later; ten keepers accumulate quickly across a playthrough, especially while discovering vehicles for Whip It Good.",
+      "steps": [
+        { "t": "Requirement: register 10 vehicles to the Scooter Bros app.", "s": ["exophase", "psnprofiles"] },
+        { "t": "PlayStation tracks this trophy with a counter to 10 — the count tracker above tallies registrations.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Registration is done per vehicle through the app the description names.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Register each keeper vehicle on the spot when you acquire it rather than meaning to do it later.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Ten keepers accumulate quickly, especially while discovering vehicles for Whip It Good.", "s": ["exophase", "psnprofiles"] },
+        { "t": "Listing check: a bronze trophy worth 15 PSN points — Exophase and PSNProfiles publish the same name, description and grade for it.", "s": ["exophase", "psnprofiles"] }
+      ]
+    }
+  ],
+  "roadmap": [
+    { "stage": 1, "notes": [
+      { "t": "The campaign opens with Gone Fishing, the first story mission.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Chapter 1 completes inside this stage, earning Paradise Lost.", "s": ["exophase", "psnprofiles"] },
+      { "t": "In The Beginning… is flagged missable: its description points to an early Ocean Beach moment.", "s": ["exophase", "psnprofiles"] }
+    ] },
+    { "stage": 2, "notes": [
+      { "t": "Chapters 2, 3 and 4 each carry their own completion trophy.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Six named missions sit in this block: Breakfast Run, The Cartel Heist, Child's Play, Headliners, VCIA Takedown and Operation Savage Glory.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Catch Me If You Can is flagged at VCIA, the airport, during this block.", "s": ["exophase", "psnprofiles"] }
+    ] },
+    { "stage": 3, "notes": [
+      { "t": "The final mission carries one of the list's two gold trophies.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Actions Speak Louder is tied by its description to story choices.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Bad Luck, I Guess and Personal Best are flagged from their descriptions as one-off endgame moments.", "s": ["exophase", "psnprofiles"] }
+    ] },
+    { "stage": 4, "notes": [
+      { "t": "Five named strands — Andy, Kenton, Billy, Randy and Tyrone — each end in a finale trophy.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Strangers & Freaks asks for 8 completed strands in total.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Bret's unique-animal hunt, Fair Game, sits in this block.", "s": ["exophase", "psnprofiles"] }
+    ] },
+    { "stage": 5, "notes": [
+      { "t": "Don't Touch My Deck asks for 3 complete Collectible Card sets.", "s": ["exophase", "psnprofiles"] },
+      { "t": "You WAiNKer! tracks 100 locations and Whip It Good 100 discovered vehicles.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Positive Mental Attitude covers 18 meditation spots, and The Goodtime State all 52 areas of Leonida.", "s": ["exophase", "psnprofiles", "rockstar"] }
+    ] },
+    { "stage": 6, "notes": [
+      { "t": "Cunning Stunts tracks 250 stunts; The Shootist asks for gold in all 42 Shooting Range challenges.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Top Fun covers drone races at 14 locations, and Earn Cash, Not Kudos 20 different race wins.", "s": ["exophase", "psnprofiles"] },
+      { "t": "The money milestones live here: $250,000 laundered, $100,000 spent, 8 garages bought, 10 vehicles registered.", "s": ["exophase", "psnprofiles"] }
+    ] },
+    { "stage": 7, "notes": [
+      { "t": "Maximum Withdrawal tracks 5 bank vaults robbed and escaped.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Pest Control asks for one illegal operation robbed from each of the 9 gangs.", "s": ["exophase", "psnprofiles"] },
+      { "t": "The partner feats — Hot Together and Retail Therapy — need the other protagonist beside you.", "s": ["exophase", "psnprofiles"] }
+    ] },
+    { "stage": 8, "notes": [
+      { "t": "A Long Road asks for 100% completion, the list's second gold.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Almost every other trophy feeds the completion counter.", "s": ["exophase", "psnprofiles"] },
+      { "t": "Vice Got a Price!, the platinum, lands automatically when the other 54 are earned.", "s": ["exophase", "psnprofiles"] }
+    ] }
+  ]
+}
